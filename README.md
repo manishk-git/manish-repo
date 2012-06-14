@@ -1,4 +1,4 @@
 manish-repo
 ===========
 
-Manish's Documents Repositiory 
+Manish's Documents Repository 
