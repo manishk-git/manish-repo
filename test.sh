@@ -1,5 +1,10 @@
 #/bin/bash
+<<<<<<< HEAD
 dd
+=======
+another line to addd for new branch
+echo some changes for new branches
+>>>>>>> experiment
 echo "test result of echo $"
 echo " shows no of arguments.."
 echo $#
