@@ -1,5 +1,5 @@
 #/bin/bash
-
+dd
 echo "test result of echo $"
 echo " shows no of arguments.."
 echo $#
