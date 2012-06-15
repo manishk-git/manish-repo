@@ -1,7 +1,4 @@
 #/bin/bash
-<<<<<<< HEAD
-dd
-=======
 another line to addd for new branch
 echo some changes for new branches
 >>>>>>> experiment
